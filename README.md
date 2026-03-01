@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=200&section=header&text=Deadshot6994&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Full%20Stack%20Dev%20%7C%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Breaking+things+to+fix+them;Junior+Cybersecurity+Dev;Python+%7C+React+%7C+Node.js;Always+learning%2C+always+hacking!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Breaking+things+to+fix+them;Cybersecurity+Dev;Python+%7C+React+%7C+Node.js;Always+learning%2C+always+hacking!" alt="Typing SVG" />
 
 <br/>
 
@@ -18,22 +18,8 @@
 
 ## About Me
 
-```python
-class Deadshot6994:
-    def __init__(self):
-        self.username   = "Deadshot6994"
-        self.role       = "Junior Cybersecurity Developer"
-        self.languages  = ["Python", "JavaScript", "Bash"]
-        self.stack      = ["React", "Node.js", "Express"]
-        self.interests  = ["Ethical Hacking", "Web Security", "CTF Challenges"]
-        self.motto      = "Break it. Fix it. Make it bulletproof. 🔫"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D4FF&background=0D1117&multiline=true&width=600&height=200&lines=class+Deadshot6994%3A;++name+%3D+'Karan+Jangir';++role+%3D+'Junior+Cybersecurity+Developer';++languages+%3D+%5B'Python'%2C+'JavaScript'%2C+'Bash'%5D;++stack+%3D+%5B'React'%2C+'Node.js'%2C+'Express'%5D;++interests+%3D+%5B'Ethical+Hacking'%2C+'CTF'%5D;++motto+%3D+'Break+it.+Fix+it.+Bulletproof.'" alt="About Me Typing" />
 
-    def current_mission(self):
-        return "🎯 Hunting bugs, securing systems & leveling up every day"
-
-me = Deadshot6994()
-print(me.current_mission())
-```
 
 ---
 
