@@ -104,7 +104,7 @@ print(me.current_mission())
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deadshot6994-181717?style=for-the-badge&logo=github)](https://github.com/Deadshot6994)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://www.linkedin.com/in/karan-jangir-025500291/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
 
 </div>
