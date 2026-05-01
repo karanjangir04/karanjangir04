@@ -1,374 +1,363 @@
 <div align="center">
 
-<!-- IMMERSIVE 3D INTERACTIVE README FOR KARANJANGIR04 -->
+<!-- HOLOGRAPHIC GLITCH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,15:0d3b66,40:ff006e,70:8338ec,100:00d9ff&height=260&section=header&text=KARANJANGIR04&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=🔐%20Cybersecurity%20%7C%20Full%20Stack%20Dev%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player%20🔐&descAlignY=65&descSize=18&animation=twinkling&stroke=ff006e&strokeWidth=3" />
 
-<!-- Main Header with Animated Background -->
-<svg width="100%" height="320" viewBox="0 0 1200 320" style="background: linear-gradient(135deg, #000814 0%, #0d3b66 50%, rgba(255,0,110,0.15) 100%); display: block;">
-  <defs>
-    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#8338ec;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#ff006e;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <!-- Grid Pattern Background -->
-  <g opacity="0.2">
-    <line x1="0" y1="0" x2="1200" y2="0" stroke="#00d9ff" stroke-width="1"/>
-    <line x1="0" y1="40" x2="1200" y2="40" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="80" x2="1200" y2="80" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="120" x2="1200" y2="120" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="160" x2="1200" y2="160" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="200" x2="1200" y2="200" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="240" x2="1200" y2="240" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="280" x2="1200" y2="280" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="0" y1="320" x2="1200" y2="320" stroke="#00d9ff" stroke-width="1"/>
-  </g>
-  
-  <!-- Vertical Grid Lines -->
-  <g opacity="0.15">
-    <line x1="100" y1="0" x2="100" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="200" y1="0" x2="200" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="300" y1="0" x2="300" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="400" y1="0" x2="400" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="500" y1="0" x2="500" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="600" y1="0" x2="600" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="700" y1="0" x2="700" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="800" y1="0" x2="800" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="900" y1="0" x2="900" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="1000" y1="0" x2="1000" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-    <line x1="1100" y1="0" x2="1100" y2="320" stroke="#00d9ff" stroke-width="0.5"/>
-  </g>
-  
-  <!-- Animated Particles -->
-  <circle cx="200" cy="80" r="4" fill="#00d9ff" opacity="0.6">
-    <animate attributeName="cx" values="200;400;200" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="80;200;80" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="800" cy="150" r="3" fill="#ff006e" opacity="0.5">
-    <animate attributeName="cx" values="800;600;800" dur="10s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="150;280;150" dur="10s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="400" cy="240" r="3.5" fill="#8338ec" opacity="0.6">
-    <animate attributeName="cx" values="400;700;400" dur="12s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="240;100;240" dur="12s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1000" cy="100" r="2.5" fill="#00d9ff" opacity="0.4">
-    <animate attributeName="cx" values="1000;500;1000" dur="9s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="100;250;100" dur="9s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Main Title -->
-  <text x="600" y="160" font-size="80" font-weight="900" fill="url(#glowGrad)" text-anchor="middle" font-family="Courier New, monospace" filter="url(#glow)" letter-spacing="4">
-    KARANJANGIR04
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="600" y="210" font-size="18" fill="#8338ec" text-anchor="middle" font-family="Courier New, monospace" letter-spacing="2">
-    🔐 CYBERSECURITY | FULL-STACK | ETHICAL HACKER 🔐
-  </text>
-  
-  <!-- Border -->
-  <line x1="0" y1="319" x2="1200" y2="319" stroke="#ff006e" stroke-width="3"/>
-</svg>
+<!-- Advanced typing animation with matrix effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=22&pause=700&color=00d9ff&center=true&vCenter=true&width=900&lines=%5B%E2%96%91%E2%96%92%E2%96%93%5D+SYSTEM+INITIALIZATION+SEQUENCE+%5B%E2%96%91%E2%96%92%E2%96%93%5D;%5E%5E%5E%5E%5E+ACCESS_LEVEL%3A_MAXIMUM+%5E%5E%5E%5E%5E;%7E%7E%7E+DECRYPTING+PROFILE_DATA+%7E%7E%7E;%5B%F0%9F%94%A5+BOOTING%5D+CyberSecurity+Protocol+Active;%5B%2B%5D+Firewall+Engaged+%7C+Exploit+Ready+%7C+Bugs+Hunted;%5B%E2%9C%93%5D+Welcome+to+Karan%27s+Terminal+%5B%E2%9C%93%5D" alt="Matrix Typing SVG" />
+
+<br/>
+
+<!-- Advanced Status Badges with Glow Effect -->
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+
+![Profile Views](https://komarev.com/ghpvc/?username=karanjangir04&color=ff006e&style=for-the-badge&label=👁️+SCANS)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_THREAT-00d9ff?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000814)
+![Mode](https://img.shields.io/badge/MODE-FULL_OFFENSIVE-ff006e?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cyber Rank](https://img.shields.io/badge/RANK-ELITE-8338ec?style=for-the-badge&logo=security&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/karanjangir04?style=for-the-badge&color=00d9ff&labelColor=000814&label=⚡_FOLLOWERS)](https://github.com/karanjangir04)
+
+</div>
+
+<!-- Separator line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-## ⚠️ `SYSTEM.INITIALIZED` → `[ONLINE]`
+## ⚠️ `SYSTEM.DIAGNOSTICS` → `[RUNNING]`
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.08), rgba(131, 56, 236, 0.08)); border: 2px solid #00d9ff; border-radius: 8px; padding: 25px; margin: 20px 0; font-family: 'Courier New', monospace; color: #00d9ff;">
+<div align="center">
 
 ```bash
-┌────────────────────────────────────────────────────────┐
-│  KARANJANGIR04 NEURAL INTERFACE INITIALIZED           │
-│  [✓] SECURE ENCRYPTION ACTIVE                         │
-│  [✓] THREAT ASSESSMENT: ELITE                         │
-│  [✓] ACCESS LEVEL: MAXIMUM                            │
-└────────────────────────────────────────────────────────┘
-
-$ whoami && system_info
+┌──(karanjangir04㉿kali)-[~]─────────────────────────────┐
+│ $ sudo cat /root/profile.sys                           │
+│ [✓] Authentication verified                           │
+│ [✓] Access Level: MAXIMUM                             │
+│ [✓] Clearance: SECURE                                 │
+└─────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ```javascript
-{
-  name: "Karan Jangir",
-  handle: "karanjangir04",
-  status: "⚡ OPERATIONAL",
-  location: "🇮🇳 Rajasthan, India",
-  expertise: [
-    "Ethical Hacking & Penetration Testing",
-    "Full-Stack Web Development (React/Node.js)",
-    "Cybersecurity Awareness & Training",
-    "CTF Competitions & Bug Bounties",
-    "Security Protocol Implementation"
-  ],
-  tools: [
-    "Kali Linux", "Burp Suite", "Metasploit",
-    "Wireshark", "Nmap", "Python", "JavaScript"
-  ],
-  mission: "Making the internet more secure 🔐",
-  motto: "Break it → Exploit it → Fix it → Bulletproof it"
+class KaranJangir {
+    constructor() {
+        this.identity = {
+            handle: "karanjangir04",
+            name: "Karan Jangir",
+            location: "India 🇮🇳 [Rajasthan Sector]",
+            status: "⚡ ACTIVE",
+            specialization: "Cybersecurity & Full-Stack Development"
+        };
+        
+        this.expertise = {
+            frontLine: ["Ethical Hacking", "Penetration Testing", "CTF Competitions"],
+            frameworks: ["React ⚛️", "Node.js 🟢", "Express 🚀", "TypeScript"],
+            backends: ["MongoDB", "PostgreSQL", "Firebase"],
+            languages: ["Python 🐍", "JavaScript/TypeScript ⚡", "Bash 💻", "HTML/CSS"]
+        };
+        
+        this.arsenal = {
+            offensive: ["Burp Suite", "Metasploit", "Nmap", "Wireshark"],
+            defensive: ["Kali Linux", "OWASP Top 10", "Security Protocols"],
+            dev_tools: ["Git/GitHub", "VSCode", "Docker", "Linux"]
+        };
+        
+        this.currentMissions = [
+            "🔨 Building CyberGuard: India's Cybersecurity Awareness Platform",
+            "🎯 Dominating CTF Challenges & Hackathons",
+            "🔐 Crafting Bulletproof Web Applications",
+            "📊 Advanced Threat Detection & Analysis"
+        ];
+        
+        this.philosophy = "Break it → Exploit it → Fix it → Bulletproof it 🔓→🔐";
+    }
+    
+    getStatus() {
+        return "[ ONLINE & OPERATIONAL ] — Ready for Next Challenge ⚡";
+    }
+    
+    displayMotto() {
+        console.log("🎯 Turning Coffee into Exploits Since Day One ☕💀");
+    }
 }
+
+const me = new KaranJangir();
+console.log(`[SYSTEM] ${me.getStatus()}`);
+me.displayMotto();
 ```
+
+<div align="center">
+
+```
+[PARSING COMPLETE] ✓ Profile data loaded successfully
+[READY] Standing by for collaboration protocols
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎮 `TECH_ARSENAL.EXE` → `[EXECUTED]`
+
+<div align="center">
+
+### 🔥 **Core Technologies**
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br/>
+  <b>Python</b><br/>
+  <sub>Web • Automation</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" /><br/>
+  <b>JavaScript</b><br/>
+  <sub>Full Stack</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=typescript" width="55" height="55" /><br/>
+  <b>TypeScript</b><br/>
+  <sub>Type Safe</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br/>
+  <b>React</b><br/>
+  <sub>UI/Frontend</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br/>
+  <b>Node.js</b><br/>
+  <sub>Backend</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" /><br/>
+  <b>Bash</b><br/>
+  <sub>Scripting</sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ **Cybersecurity Toolkit**
+
+<div style="margin: 25px 0;">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=000814)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white&labelColor=000814)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=000814)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=000814)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white&labelColor=000814)
+
+![DVWA](https://img.shields.io/badge/DVWA-FF0000?style=flat-square&logoColor=white&labelColor=000814)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=white&labelColor=000814)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000814)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=000814)
+
+</div>
+
+### ⚙️ **Development & DevOps**
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br/>
+  <b>Git</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br/>
+  <b>GitHub</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br/>
+  <b>VS Code</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br/>
+  <b>Linux</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br/>
+  <b>Docker</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br/>
+  <b>MongoDB</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br/>
+  <b>Express</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br/>
+  <b>PostgreSQL</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br/>
+  <b>Firebase</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br/>
+  <b>Tailwind CSS</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br/>
+  <b>Postman</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br/>
+  <b>Figma</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📊 `ANALYTICS.DASHBOARD` → `[LIVE_FEED]`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karanjangir04&show_icons=true&theme=tokyonight&border_color=ff006e&bg_color=0d1117&title_color=00d9ff&icon_color=ff006e&text_color=ffffff&ring_color=8338ec&hide_border=false&custom_title=💻+CODE_STATISTICS&line_height=27" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=karanjangir04&theme=tokyonight&background=0d1117&border=ff006e&stroke=8338ec&ring=ff006e&fire=00d9ff&currStreakLabel=ffffff&sideLabels=00d9ff&dates=666666" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjangir04&layout=donut-vertical&theme=tokyonight&border_color=ff006e&bg_color=0d1117&title_color=ff006e&text_color=00d9ff&custom_title=⚡+LANGUAGE_DISTRIBUTION" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanjangir04&bg_color=0d1117&color=00d9ff&line=ff006e&point=8338ec&area=true&area_color=8338ec&hide_border=false&custom_title=🔥+COMMIT_FREQUENCY_TIMELINE&font_color=ffffff" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎯 `FLAGSHIP_PROJECTS.REGISTRY`
+
+<div align="center">
+
+| 🔐 **Project** | 📝 **Description** | 🔗 **Status** |
+|---|---|---|
+| **CyberGuard** | 🛡️ India's Cybersecurity Awareness Web App with Quiz Engine, Threat Detection & Cyber Police Locator | `[ACTIVE]` |
+| **FORMIQ** | 📋 AI/ML-powered Construction Formwork Kitting Optimizer using Next.js + Dataset Integration (L&T CREATECH) | `[DEPLOYED]` |
+| **CTF Solutions** | 🚩 Advanced CTF Challenge Writeups & Exploitation Techniques | `[ONGOING]` |
+| **Security Toolkit** | 🛠️ Custom Penetration Testing Scripts & Automation Tools | `[MAINTAINED]` |
+
+</div>
+
+---
+
+## 🚀 `CURRENT_OPERATIONS.LOG`
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  🎯 MISSION OBJECTIVES IN PROGRESS                            ║
+╚════════════════════════════════════════════════════════════════╝
+
+[▓▓▓▓▓░░░░] 50%  → Advanced Ethical Hacking Certifications
+[▓▓▓▓▓▓▓░░░] 70%  → Dominating CTF & Hackathon Circuits  
+[▓▓▓▓▓▓▓▓░░] 80%  → Enterprise-Grade Web Security Tools
+[▓▓▓▓▓▓▓▓▓░] 90%  → Full-Stack Cybersecurity Solutions
+
+🔗 PROTOCOLS ACTIVE:
+   └─ Security Research & Vulnerability Disclosure
+   └─ Web Application Hardening
+   └─ Open-Source Security Contributions
+   └─ Knowledge Sharing & Community Building
+```
+
+</div>
+
+---
+
+## 📡 `CONTACT_PROTOCOLS.INITIATED`
+
+<div align="center">
 
 ```bash
-[✓] Configuration loaded successfully
-[✓] Ready for engagement
-[⚡] Standing by for next mission...
+$ ping karanjangir04.dev
+[+] Establishing encrypted connection...
+[+] Multiple communication channels available
+[✓] Ready for collaboration & inquiries
+```
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-karanjangir04-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000814)](https://github.com/karanjangir04)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Karan%20Jangir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000814)](https://www.linkedin.com/in/karan-jangir-025500291/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000814)](mailto:karanjangir04@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-@karanjangir04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000814)](https://twitter.com/karanjangir04)
+
+<br/>
+
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000814)](https://www.hackthebox.com)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-Rooms-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000814)](https://www.tryhackme.com)
+
+<br/>
+
+```bash
+[✓] Connection secured with TLS encryption
+[✓] All communication channels verified & operational
+[✓] Awaiting your message...
 ```
 
 </div>
 
 ---
 
-## 🔫 `TECH_ARSENAL` → `[LOADED]`
+## 💡 `CODE_PHILOSOPHY.MD`
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; margin: 20px 0;">
-
-<!-- Frontend Card -->
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(131, 56, 236, 0.1)); border: 2px solid #00d9ff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(0, 217, 255, 0.3); transition: all 0.3s ease;">
-  <div style="font-size: 32px; margin-bottom: 10px;">⚛️</div>
-  <div style="color: #00d9ff; font-weight: bold; font-size: 13px; letter-spacing: 1px;">REACT</div>
-  <div style="color: #8338ec; font-size: 11px; margin-top: 5px;">UI Engine</div>
-</div>
-
-<!-- Backend Card -->
-<div style="background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(131, 56, 236, 0.1)); border: 2px solid #ff006e; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(255, 0, 110, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🟢</div>
-  <div style="color: #ff006e; font-weight: bold; font-size: 13px; letter-spacing: 1px;">NODE.JS</div>
-  <div style="color: #00d9ff; font-size: 11px; margin-top: 5px;">Backend</div>
-</div>
-
-<!-- Python Card -->
-<div style="background: linear-gradient(135deg, rgba(131, 56, 236, 0.1), rgba(0, 217, 255, 0.1)); border: 2px solid #8338ec; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(131, 56, 236, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🐍</div>
-  <div style="color: #8338ec; font-weight: bold; font-size: 13px; letter-spacing: 1px;">PYTHON</div>
-  <div style="color: #ff006e; font-size: 11px; margin-top: 5px;">Automation</div>
-</div>
-
-<!-- Kali Linux Card -->
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 0, 110, 0.1)); border: 2px solid #00d9ff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(0, 217, 255, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🐧</div>
-  <div style="color: #00d9ff; font-weight: bold; font-size: 13px; letter-spacing: 1px;">KALI</div>
-  <div style="color: #8338ec; font-size: 11px; margin-top: 5px;">Linux OS</div>
-</div>
-
-<!-- Burp Suite Card -->
-<div style="background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(0, 217, 255, 0.1)); border: 2px solid #ff006e; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(255, 0, 110, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🛡️</div>
-  <div style="color: #ff006e; font-weight: bold; font-size: 13px; letter-spacing: 1px;">BURP</div>
-  <div style="color: #00d9ff; font-size: 11px; margin-top: 5px;">Web Testing</div>
-</div>
-
-<!-- MongoDB Card -->
-<div style="background: linear-gradient(135deg, rgba(131, 56, 236, 0.1), rgba(255, 0, 110, 0.1)); border: 2px solid #8338ec; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(131, 56, 236, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🗄️</div>
-  <div style="color: #8338ec; font-weight: bold; font-size: 13px; letter-spacing: 1px;">MONGO</div>
-  <div style="color: #ff006e; font-size: 11px; margin-top: 5px;">Database</div>
-</div>
-
-<!-- Docker Card -->
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(131, 56, 236, 0.1)); border: 2px solid #00d9ff; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(0, 217, 255, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🐳</div>
-  <div style="color: #00d9ff; font-weight: bold; font-size: 13px; letter-spacing: 1px;">DOCKER</div>
-  <div style="color: #8338ec; font-size: 11px; margin-top: 5px;">Containers</div>
-</div>
-
-<!-- Express Card -->
-<div style="background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(131, 56, 236, 0.1)); border: 2px solid #ff006e; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(255, 0, 110, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">🚀</div>
-  <div style="color: #ff006e; font-weight: bold; font-size: 13px; letter-spacing: 1px;">EXPRESS</div>
-  <div style="color: #00d9ff; font-size: 11px; margin-top: 5px;">Web Server</div>
-</div>
-
-<!-- TypeScript Card -->
-<div style="background: linear-gradient(135deg, rgba(131, 56, 236, 0.1), rgba(0, 217, 255, 0.1)); border: 2px solid #8338ec; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 0 15px rgba(131, 56, 236, 0.3);">
-  <div style="font-size: 32px; margin-bottom: 10px;">📘</div>
-  <div style="color: #8338ec; font-weight: bold; font-size: 13px; letter-spacing: 1px;">TYPESCRIPT</div>
-  <div style="color: #ff006e; font-size: 11px; margin-top: 5px;">Type Safety</div>
-</div>
-
-</div>
-
----
-
-## 📊 `STATISTICS.PORTAL` → `[LIVE_DATA]`
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin: 20px 0;">
-
-<!-- Stat Card 1 -->
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.08), rgba(255, 0, 110, 0.08)); border: 2px solid #00d9ff; border-radius: 8px; padding: 20px; text-align: center;">
-  <div style="color: #8338ec; font-size: 11px; letter-spacing: 2px; font-family: monospace; margin-bottom: 10px;">REPOSITORIES</div>
-  <div style="color: #00d9ff; font-size: 42px; font-weight: 900; text-shadow: 0 0 10px #00d9ff;">25+</div>
-  <div style="color: #ff006e; font-size: 10px; margin-top: 8px;">Active Projects</div>
-</div>
-
-<!-- Stat Card 2 -->
-<div style="background: linear-gradient(135deg, rgba(255, 0, 110, 0.08), rgba(131, 56, 236, 0.08)); border: 2px solid #ff006e; border-radius: 8px; padding: 20px; text-align: center;">
-  <div style="color: #8338ec; font-size: 11px; letter-spacing: 2px; font-family: monospace; margin-bottom: 10px;">SECURITY TOOLS</div>
-  <div style="color: #ff006e; font-size: 42px; font-weight: 900; text-shadow: 0 0 10px #ff006e;">15+</div>
-  <div style="color: #00d9ff; font-size: 10px; margin-top: 8px;">Mastered</div>
-</div>
-
-<!-- Stat Card 3 -->
-<div style="background: linear-gradient(135deg, rgba(131, 56, 236, 0.08), rgba(0, 217, 255, 0.08)); border: 2px solid #8338ec; border-radius: 8px; padding: 20px; text-align: center;">
-  <div style="color: #ff006e; font-size: 11px; letter-spacing: 2px; font-family: monospace; margin-bottom: 10px;">CTF COMPETITIONS</div>
-  <div style="color: #8338ec; font-size: 42px; font-weight: 900; text-shadow: 0 0 10px #8338ec;">10+</div>
-  <div style="color: #00d9ff; font-size: 10px; margin-top: 8px;">Participated</div>
-</div>
-
-<!-- Stat Card 4 -->
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.08), rgba(255, 0, 110, 0.08)); border: 2px solid #00d9ff; border-radius: 8px; padding: 20px; text-align: center;">
-  <div style="color: #ff006e; font-size: 11px; letter-spacing: 2px; font-family: monospace; margin-bottom: 10px;">CODE CONTRIBUTIONS</div>
-  <div style="color: #00d9ff; font-size: 42px; font-weight: 900; text-shadow: 0 0 10px #00d9ff;">500+</div>
-  <div style="color: #8338ec; font-size: 10px; margin-top: 8px;">Commits</div>
-</div>
-
-</div>
-
----
-
-## 🎯 `FLAGSHIP_OPERATIONS`
-
-<div style="background: rgba(0, 10, 20, 0.7); border-left: 4px solid #ff006e; border-right: 4px solid #8338ec; padding: 20px; margin: 20px 0; border-radius: 4px;">
-
-**CyberGuard** 🛡️ - India's Cybersecurity Awareness Platform
-- Interactive Quiz Engine | Threat Detection | Police Locator
-- `[STATUS: ACTIVE & EVOLVING]`
-
-**FORMIQ** 📋 - AI/ML Construction Optimizer  
-- Next.js + Advanced Backend | 847-Record Dataset
-- `[STATUS: L&T CREATECH 2026 FINALIST]`
-
-**Security Toolkit** 🔧 - Custom Exploitation & Testing
-- Automated Pentesting | CTF Solutions | Vulnerability Assessment
-- `[STATUS: MAINTAINED]`
-
-</div>
-
----
-
-## 📡 `CONNECT.PROTOCOL` → `[ENGAGED]`
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 25px 0;">
-
-<a href="https://github.com/karanjangir04" style="background: linear-gradient(135deg, #ff006e, #8338ec); color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; font-family: monospace; font-size: 12px; box-shadow: 0 0 20px rgba(255, 0, 110, 0.6); border: 2px solid #ff006e; transition: all 0.3s;">
-  🐙 GITHUB
-</a>
-
-<a href="https://www.linkedin.com/in/karan-jangir-025500291/" style="background: linear-gradient(135deg, #00d9ff, #0d3b66); color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; font-family: monospace; font-size: 12px; box-shadow: 0 0 20px rgba(0, 217, 255, 0.6); border: 2px solid #00d9ff; transition: all 0.3s;">
-  💼 LINKEDIN
-</a>
-
-<a href="mailto:karanjangir04@gmail.com" style="background: linear-gradient(135deg, #8338ec, #ff006e); color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; font-family: monospace; font-size: 12px; box-shadow: 0 0 20px rgba(131, 56, 236, 0.6); border: 2px solid #8338ec; transition: all 0.3s;">
-  ✉️ EMAIL
-</a>
-
-<a href="https://www.tryhackme.com/" style="background: linear-gradient(135deg, #ff0000, #ff006e); color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; font-family: monospace; font-size: 12px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.6); border: 2px solid #ff0000; transition: all 0.3s;">
-  🎯 TRYHACKME
-</a>
-
-</div>
-
----
-
-## 💀 `SECURITY_PHILOSOPHY`
-
-<div style="background: radial-gradient(circle at 30% 30%, rgba(0, 217, 255, 0.1), rgba(255, 0, 110, 0.05)); border: 2px dashed #8338ec; padding: 25px; margin: 20px 0; border-radius: 8px; color: #00d9ff; font-family: 'Courier New', monospace; line-height: 1.9;">
+<div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║           SECURITY MANIFESTO v3.14 [ACTIVE]             ║
-╚═══════════════════════════════════════════════════════════╝
+"Security is not a feature, it's a foundation."
 
-CORE PRINCIPLES:
-  ✓ Security is foundational, not optional
-  ✓ Break it → Understand → Fix it → Harden it
-  ✓ Code beautiful AND bulletproof
-  ✓ Share knowledge. Elevate the community.
-  ✓ Never stop learning.
+My approach:
+  ✓ Write code that's elegant AND bulletproof
+  ✓ Break systems to understand how to fix them
+  ✓ Share knowledge to elevate the community
+  ✓ Never stop learning in this evolving landscape
 
-THE METHODOLOGY:
-  1. Think like an attacker
-  2. Find the weaknesses  
-  3. Prove the exploit
-  4. Implement the fix
-  5. Test everything
-  6. Document thoroughly
-  7. Iterate forever
-
-MOTTO:
-  "Break it. Fix it. Bulletproof it. 🔓 → 🔐"
+Methodology:
+  1️⃣  Break It    → Understand vulnerabilities
+  2️⃣  Exploit It  → Prove the concept
+  3️⃣  Fix It      → Implement solutions
+  4️⃣  Bulletproof → Harden for production
 ```
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-<div align="center" style="padding: 30px 0;">
+<div align="center">
 
-<!-- Closing Section -->
-<svg width="100%" height="80" viewBox="0 0 800 80" style="display: block;">
-  <defs>
-    <linearGradient id="closingGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff006e;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#00d9ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8338ec;stop-opacity:1" />
-    </linearGradient>
-    <filter id="closingGlow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <text x="400" y="45" font-size="28" font-weight="900" fill="url(#closingGrad)" text-anchor="middle" font-family="Courier New, monospace" filter="url(#closingGlow)" letter-spacing="2">
-    ✦ READY FOR NEXT MISSION ✦
-  </text>
-  
-  <text x="400" y="70" font-size="11" fill="#8338ec" text-anchor="middle" font-family="Courier New, monospace" letter-spacing="1">
-    Crafted with 💻 Code • ☕ Coffee • 🔐 Security • 🚀 Innovation
-  </text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:00d9ff&height=140&section=footer&text=SYSTEM%20READY&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
 
-<div style="color: #00d9ff; font-size: 10px; letter-spacing: 2px; font-family: 'Courier New', monospace; margin-top: 10px;">
-  © 2024-2025 KARAN JANGIR | ETHICAL HACKER | FULL-STACK DEVELOPER
-</div>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     < CRAFTED_WITH: 💻 Code • ☕ Coffee • 🔐 Security >    ║
+║                  © 2024-2025 Karan Jangir                    ║
+║                                                               ║
+║           "Let's make the internet more secure!"             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
-
-<style>
-  @keyframes glow-pulse {
-    0%, 100% { 
-      filter: drop-shadow(0 0 8px #00d9ff) drop-shadow(0 0 15px #ff006e);
-      opacity: 1;
-    }
-    50% { 
-      filter: drop-shadow(0 0 15px #00d9ff) drop-shadow(0 0 25px #ff006e);
-      opacity: 0.9;
-    }
-  }
-  
-  @keyframes float-up {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  a {
-    transition: all 0.3s ease !important;
-  }
-  
-  a:hover {
-    transform: translateY(-3px) !important;
-    filter: brightness(1.2) !important;
-  }
-</style>
