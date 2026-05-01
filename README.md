@@ -1,358 +1,363 @@
 <div align="center">
 
-# KARANJANGIR04
+<!-- HOLOGRAPHIC GLITCH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,15:0d3b66,40:ff006e,70:8338ec,100:00d9ff&height=260&section=header&text=KARANJANGIR04&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=🔐%20Cybersecurity%20%7C%20Full%20Stack%20Dev%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player%20🔐&descAlignY=65&descSize=18&animation=twinkling&stroke=ff006e&strokeWidth=3" />
 
-## Cybersecurity Developer | Full-Stack Engineer | Ethical Hacker
+<!-- Advanced typing animation with matrix effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=22&pause=700&color=00d9ff&center=true&vCenter=true&width=900&lines=%5B%E2%96%91%E2%96%92%E2%96%93%5D+SYSTEM+INITIALIZATION+SEQUENCE+%5B%E2%96%91%E2%96%92%E2%96%93%5D;%5E%5E%5E%5E%5E+ACCESS_LEVEL%3A_MAXIMUM+%5E%5E%5E%5E%5E;%7E%7E%7E+DECRYPTING+PROFILE_DATA+%7E%7E%7E;%5B%F0%9F%94%A5+BOOTING%5D+CyberSecurity+Protocol+Active;%5B%2B%5D+Firewall+Engaged+%7C+Exploit+Ready+%7C+Bugs+Hunted;%5B%E2%9C%93%5D+Welcome+to+Karan%27s+Terminal+%5B%E2%9C%93%5D" alt="Matrix Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Breaking+Systems.+Building+Solutions.;Cybersecurity+Specialist+%26+Developer;React+%7C+Node.js+%7C+Python+%7C+Kali+Linux" />
+<br/>
 
----
+<!-- Advanced Status Badges with Glow Effect -->
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
 
-</div>
-
-## 📊 Performance Metrics
-
-<div style="background: linear-gradient(135deg, #f5f5f5 0%, #ffffff 100%); border-radius: 12px; padding: 25px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 20px;">
-
-<!-- Metric 1 -->
-<div style="text-align: center; padding: 15px; background: white; border-radius: 8px; border-left: 4px solid #000;">
-  <div style="font-size: 32px; font-weight: 900; color: #000;">25+</div>
-  <div style="color: #666; font-size: 13px; margin-top: 8px;">Repositories</div>
-  <div style="width: 60px; height: 4px; background: #000; margin: 10px auto; border-radius: 2px;"></div>
-</div>
-
-<!-- Metric 2 -->
-<div style="text-align: center; padding: 15px; background: white; border-radius: 8px; border-left: 4px solid #333;">
-  <div style="font-size: 32px; font-weight: 900; color: #333;">15+</div>
-  <div style="color: #666; font-size: 13px; margin-top: 8px;">Security Tools</div>
-  <div style="width: 60px; height: 4px; background: #333; margin: 10px auto; border-radius: 2px;"></div>
-</div>
-
-<!-- Metric 3 -->
-<div style="text-align: center; padding: 15px; background: white; border-radius: 8px; border-left: 4px solid #000;">
-  <div style="font-size: 32px; font-weight: 900; color: #000;">500+</div>
-  <div style="color: #666; font-size: 13px; margin-top: 8px;">Code Commits</div>
-  <div style="width: 60px; height: 4px; background: #000; margin: 10px auto; border-radius: 2px;"></div>
-</div>
-
-<!-- Metric 4 -->
-<div style="text-align: center; padding: 15px; background: white; border-radius: 8px; border-left: 4px solid #555;">
-  <div style="font-size: 32px; font-weight: 900; color: #555;">10+</div>
-  <div style="color: #666; font-size: 13px; margin-top: 8px;">CTF Events</div>
-  <div style="width: 60px; height: 4px; background: #555; margin: 10px auto; border-radius: 2px;"></div>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=karanjangir04&color=ff006e&style=for-the-badge&label=👁️+SCANS)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_THREAT-00d9ff?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000814)
+![Mode](https://img.shields.io/badge/MODE-FULL_OFFENSIVE-ff006e?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cyber Rank](https://img.shields.io/badge/RANK-ELITE-8338ec?style=for-the-badge&logo=security&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/karanjangir04?style=for-the-badge&color=00d9ff&labelColor=000814&label=⚡_FOLLOWERS)](https://github.com/karanjangir04)
 
 </div>
+
+<!-- Separator line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## 💻 Technical Expertise
+## ⚠️ `SYSTEM.DIAGNOSTICS` → `[RUNNING]`
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+<div align="center">
 
-<!-- Frontend Stack -->
-<div style="background: white; border: 2px solid #f0f0f0; border-radius: 10px; padding: 20px;">
-  <h3 style="color: #000; margin: 0 0 15px 0; border-bottom: 3px solid #000; padding-bottom: 10px;">Frontend</h3>
-  <div style="display: flex; flex-direction: column; gap: 12px;">
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: 600; color: #000;">React</span>
-        <span style="color: #666;">95%</span>
-      </div>
-      <div style="background: #e0e0e0; height: 6px; border-radius: 3px; overflow: hidden;">
-        <div style="background: #000; height: 100%; width: 95%; border-radius: 3px;"></div>
-      </div>
-    </div>
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: 600; color: #000;">JavaScript/TypeScript</span>
-        <span style="color: #666;">90%</span>
-      </div>
-      <div style="background: #e0e0e0; height: 6px; border-radius: 3px; overflow: hidden;">
-        <div style="background: #333; height: 100%; width: 90%; border-radius: 3px;"></div>
-      </div>
-    </div>
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: 600; color: #000;">Tailwind CSS</span>
-        <span style="color: #666;">85%</span>
-      </div>
-      <div style="background: #e0e0e0; height: 6px; border-radius: 3px; overflow: hidden;">
-        <div style="background: #555; height: 100%; width: 85%; border-radius: 3px;"></div>
-      </div>
-    </div>
-  </div>
+```bash
+┌──(karanjangir04㉿kali)-[~]─────────────────────────────┐
+│ $ sudo cat /root/profile.sys                           │
+│ [✓] Authentication verified                           │
+│ [✓] Access Level: MAXIMUM                             │
+│ [✓] Clearance: SECURE                                 │
+└─────────────────────────────────────────────────────────┘
+```
+
 </div>
 
-<!-- Backend Stack -->
-<div style="background: white; border: 2px solid #f0f0f0; border-radius: 10px; padding: 20px;">
-  <h3 style="color: #000; margin: 0 0 15px 0; border-bottom: 3px solid #000; padding-bottom: 10px;">Backend & Security</h3>
-  <div style="display: flex; flex-direction: column; gap: 12px;">
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: 600; color: #000;">Node.js/Express</span>
-        <span style="color: #666;">92%</span>
-      </div>
-      <div style="background: #e0e0e0; height: 6px; border-radius: 3px; overflow: hidden;">
-        <div style="background: #000; height: 100%; width: 92%; border-radius: 3px;"></div>
-      </div>
-    </div>
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: 600; color: #000;">Python</span>
-        <span style="color: #666;">88%</span>
-      </div>
-      <div style="background: #e0e0e0; height: 6px; border-radius: 3px; overflow: hidden;">
-        <div style="background: #333; height: 100%; width: 88%; border-radius: 3px;"></div>
-      </div>
-    </div>
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-        <span style="font-weight: 600; color: #000;">Ethical Hacking</span>
-        <span style="color: #666;">87%</span>
-      </div>
-      <div style="background: #e0e0e0; height: 6px; border-radius: 3px; overflow: hidden;">
-        <div style="background: #555; height: 100%; width: 87%; border-radius: 3px;"></div>
-      </div>
-    </div>
-  </div>
+```javascript
+class KaranJangir {
+    constructor() {
+        this.identity = {
+            handle: "karanjangir04",
+            name: "Karan Jangir",
+            location: "India 🇮🇳 [Rajasthan Sector]",
+            status: "⚡ ACTIVE",
+            specialization: "Cybersecurity & Full-Stack Development"
+        };
+        
+        this.expertise = {
+            frontLine: ["Ethical Hacking", "Penetration Testing", "CTF Competitions"],
+            frameworks: ["React ⚛️", "Node.js 🟢", "Express 🚀", "TypeScript"],
+            backends: ["MongoDB", "PostgreSQL", "Firebase"],
+            languages: ["Python 🐍", "JavaScript/TypeScript ⚡", "Bash 💻", "HTML/CSS"]
+        };
+        
+        this.arsenal = {
+            offensive: ["Burp Suite", "Metasploit", "Nmap", "Wireshark"],
+            defensive: ["Kali Linux", "OWASP Top 10", "Security Protocols"],
+            dev_tools: ["Git/GitHub", "VSCode", "Docker", "Linux"]
+        };
+        
+        this.currentMissions = [
+            "🔨 Building CyberGuard: India's Cybersecurity Awareness Platform",
+            "🎯 Dominating CTF Challenges & Hackathons",
+            "🔐 Crafting Bulletproof Web Applications",
+            "📊 Advanced Threat Detection & Analysis"
+        ];
+        
+        this.philosophy = "Break it → Exploit it → Fix it → Bulletproof it 🔓→🔐";
+    }
+    
+    getStatus() {
+        return "[ ONLINE & OPERATIONAL ] — Ready for Next Challenge ⚡";
+    }
+    
+    displayMotto() {
+        console.log("🎯 Turning Coffee into Exploits Since Day One ☕💀");
+    }
+}
+
+const me = new KaranJangir();
+console.log(`[SYSTEM] ${me.getStatus()}`);
+me.displayMotto();
+```
+
+<div align="center">
+
+```
+[PARSING COMPLETE] ✓ Profile data loaded successfully
+[READY] Standing by for collaboration protocols
+```
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎮 `TECH_ARSENAL.EXE` → `[EXECUTED]`
+
+<div align="center">
+
+### 🔥 **Core Technologies**
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br/>
+  <b>Python</b><br/>
+  <sub>Web • Automation</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" /><br/>
+  <b>JavaScript</b><br/>
+  <sub>Full Stack</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=typescript" width="55" height="55" /><br/>
+  <b>TypeScript</b><br/>
+  <sub>Type Safe</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br/>
+  <b>React</b><br/>
+  <sub>UI/Frontend</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br/>
+  <b>Node.js</b><br/>
+  <sub>Backend</sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" /><br/>
+  <b>Bash</b><br/>
+  <sub>Scripting</sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ **Cybersecurity Toolkit**
+
+<div style="margin: 25px 0;">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=000814)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white&labelColor=000814)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=000814)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=000814)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white&labelColor=000814)
+
+![DVWA](https://img.shields.io/badge/DVWA-FF0000?style=flat-square&logoColor=white&labelColor=000814)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=white&labelColor=000814)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000814)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=000814)
+
+</div>
+
+### ⚙️ **Development & DevOps**
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br/>
+  <b>Git</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br/>
+  <b>GitHub</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br/>
+  <b>VS Code</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br/>
+  <b>Linux</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br/>
+  <b>Docker</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br/>
+  <b>MongoDB</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br/>
+  <b>Express</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br/>
+  <b>PostgreSQL</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br/>
+  <b>Firebase</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br/>
+  <b>Tailwind CSS</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br/>
+  <b>Postman</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br/>
+  <b>Figma</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📊 `ANALYTICS.DASHBOARD` → `[LIVE_FEED]`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karanjangir04&show_icons=true&theme=tokyonight&border_color=ff006e&bg_color=0d1117&title_color=00d9ff&icon_color=ff006e&text_color=ffffff&ring_color=8338ec&hide_border=false&custom_title=💻+CODE_STATISTICS&line_height=27" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=karanjangir04&theme=tokyonight&background=0d1117&border=ff006e&stroke=8338ec&ring=ff006e&fire=00d9ff&currStreakLabel=ffffff&sideLabels=00d9ff&dates=666666" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjangir04&layout=donut-vertical&theme=tokyonight&border_color=ff006e&bg_color=0d1117&title_color=ff006e&text_color=00d9ff&custom_title=⚡+LANGUAGE_DISTRIBUTION" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanjangir04&bg_color=0d1117&color=00d9ff&line=ff006e&point=8338ec&area=true&area_color=8338ec&hide_border=false&custom_title=🔥+COMMIT_FREQUENCY_TIMELINE&font_color=ffffff" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎯 `FLAGSHIP_PROJECTS.REGISTRY`
+
+<div align="center">
+
+| 🔐 **Project** | 📝 **Description** | 🔗 **Status** |
+|---|---|---|
+| **CyberGuard** | 🛡️ India's Cybersecurity Awareness Web App with Quiz Engine, Threat Detection & Cyber Police Locator | `[ACTIVE]` |
+| **FORMIQ** | 📋 AI/ML-powered Construction Formwork Kitting Optimizer using Next.js + Dataset Integration (L&T CREATECH) | `[DEPLOYED]` |
+| **CTF Solutions** | 🚩 Advanced CTF Challenge Writeups & Exploitation Techniques | `[ONGOING]` |
+| **Security Toolkit** | 🛠️ Custom Penetration Testing Scripts & Automation Tools | `[MAINTAINED]` |
 
 </div>
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 `CURRENT_OPERATIONS.LOG`
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 20px 0;">
+<div align="center">
 
-<!-- Languages -->
-<div style="background: #f9f9f9; border-radius: 8px; padding: 18px; border: 1px solid #ddd;">
-  <h4 style="color: #000; margin: 0 0 12px 0;">Languages</h4>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: #000; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Python</span>
-    <span style="background: #333; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">JavaScript</span>
-    <span style="background: #555; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">TypeScript</span>
-    <span style="background: #666; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Bash</span>
-  </div>
-</div>
+```
+╔════════════════════════════════════════════════════════════════╗
+║  🎯 MISSION OBJECTIVES IN PROGRESS                            ║
+╚════════════════════════════════════════════════════════════════╝
 
-<!-- Frameworks -->
-<div style="background: #f9f9f9; border-radius: 8px; padding: 18px; border: 1px solid #ddd;">
-  <h4 style="color: #000; margin: 0 0 12px 0;">Frameworks</h4>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: #000; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">React</span>
-    <span style="background: #333; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Node.js</span>
-    <span style="background: #555; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Express</span>
-    <span style="background: #666; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">MongoDB</span>
-  </div>
-</div>
+[▓▓▓▓▓░░░░] 50%  → Advanced Ethical Hacking Certifications
+[▓▓▓▓▓▓▓░░░] 70%  → Dominating CTF & Hackathon Circuits  
+[▓▓▓▓▓▓▓▓░░] 80%  → Enterprise-Grade Web Security Tools
+[▓▓▓▓▓▓▓▓▓░] 90%  → Full-Stack Cybersecurity Solutions
 
-<!-- Tools -->
-<div style="background: #f9f9f9; border-radius: 8px; padding: 18px; border: 1px solid #ddd;">
-  <h4 style="color: #000; margin: 0 0 12px 0;">Security Tools</h4>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: #000; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Kali Linux</span>
-    <span style="background: #333; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Burp Suite</span>
-    <span style="background: #555; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Metasploit</span>
-    <span style="background: #666; color: white; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Nmap</span>
-  </div>
-</div>
+🔗 PROTOCOLS ACTIVE:
+   └─ Security Research & Vulnerability Disclosure
+   └─ Web Application Hardening
+   └─ Open-Source Security Contributions
+   └─ Knowledge Sharing & Community Building
+```
 
 </div>
 
 ---
 
-## 📈 Skill Distribution
+## 📡 `CONTACT_PROTOCOLS.INITIATED`
 
-<svg width="100%" height="350" viewBox="0 0 800 350" style="background: linear-gradient(135deg, #f9f9f9 0%, #ffffff 100%); border-radius: 10px; margin: 20px 0;">
-  
-  <!-- Grid Lines -->
-  <g stroke="#ddd" stroke-width="1">
-    <line x1="80" y1="280" x2="750" y2="280" />
-    <line x1="80" y1="240" x2="750" y2="240" />
-    <line x1="80" y1="200" x2="750" y2="200" />
-    <line x1="80" y1="160" x2="750" y2="160" />
-    <line x1="80" y1="120" x2="750" y2="120" />
-    <line x1="80" y1="80" x2="750" y2="80" />
-  </g>
-  
-  <!-- Y-axis labels -->
-  <text x="65" y="285" font-size="12" fill="#666" text-anchor="end">0%</text>
-  <text x="65" y="245" font-size="12" fill="#666" text-anchor="end">20%</text>
-  <text x="65" y="205" font-size="12" fill="#666" text-anchor="end">40%</text>
-  <text x="65" y="165" font-size="12" fill="#666" text-anchor="end">60%</text>
-  <text x="65" y="125" font-size="12" fill="#666" text-anchor="end">80%</text>
-  <text x="65" y="85" font-size="12" fill="#666" text-anchor="end">100%</text>
-  
-  <!-- Bars -->
-  <rect x="100" y="120" width="40" height="160" fill="#000"/>
-  <rect x="160" y="140" width="40" height="140" fill="#333"/>
-  <rect x="220" y="130" width="40" height="150" fill="#555"/>
-  <rect x="280" y="100" width="40" height="180" fill="#666"/>
-  <rect x="340" y="150" width="40" height="130" fill="#000"/>
-  <rect x="400" y="120" width="40" height="160" fill="#333"/>
-  <rect x="460" y="100" width="40" height="180" fill="#555"/>
-  <rect x="520" y="140" width="40" height="140" fill="#666"/>
-  <rect x="580" y="110" width="40" height="170" fill="#000"/>
-  
-  <!-- X-axis labels -->
-  <text x="120" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">React</text>
-  <text x="180" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Node.js</text>
-  <text x="240" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Python</text>
-  <text x="300" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Security</text>
-  <text x="360" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Docker</text>
-  <text x="420" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Database</text>
-  <text x="480" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">DevOps</text>
-  <text x="540" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Testing</text>
-  <text x="600" y="310" font-size="12" fill="#333" text-anchor="middle" font-weight="600">Linux</text>
-  
-  <!-- Title -->
-  <text x="400" y="30" font-size="16" fill="#000" text-anchor="middle" font-weight="bold">Technical Skills Assessment</text>
-</svg>
+<div align="center">
 
----
+```bash
+$ ping karanjangir04.dev
+[+] Establishing encrypted connection...
+[+] Multiple communication channels available
+[✓] Ready for collaboration & inquiries
+```
 
-## 🎯 Featured Projects
+<br/>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+[![GitHub](https://img.shields.io/badge/GITHUB-karanjangir04-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000814)](https://github.com/karanjangir04)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Karan%20Jangir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000814)](https://www.linkedin.com/in/karan-jangir-025500291/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000814)](mailto:karanjangir04@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-@karanjangir04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000814)](https://twitter.com/karanjangir04)
 
-<!-- Project 1 -->
-<div style="background: white; border: 2px solid #000; border-radius: 10px; padding: 20px;">
-  <h3 style="color: #000; margin: 0 0 10px 0;">CyberGuard</h3>
-  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">India's Cybersecurity Awareness Platform with Interactive Quizzes, Threat Detection, and Police Locator</p>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 15px;">
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">React</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Node.js</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">MongoDB</span>
-  </div>
-  <div style="font-size: 12px; color: #999;">Status: <strong style="color: #000;">ACTIVE</strong></div>
-</div>
+<br/>
 
-<!-- Project 2 -->
-<div style="background: white; border: 2px solid #333; border-radius: 10px; padding: 20px;">
-  <h3 style="color: #000; margin: 0 0 10px 0;">FORMIQ</h3>
-  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">AI/ML-powered Construction Optimizer with 847-record Dataset Integration</p>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 15px;">
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Next.js</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">ML/AI</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Python</span>
-  </div>
-  <div style="font-size: 12px; color: #999;">Status: <strong style="color: #000;">DEPLOYED</strong></div>
-</div>
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000814)](https://www.hackthebox.com)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-Rooms-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000814)](https://www.tryhackme.com)
 
-<!-- Project 3 -->
-<div style="background: white; border: 2px solid #555; border-radius: 10px; padding: 20px;">
-  <h3 style="color: #000; margin: 0 0 10px 0;">Security Toolkit</h3>
-  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">Custom Penetration Testing Scripts & Vulnerability Assessment Tools</p>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 15px;">
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Python</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Bash</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Kali Linux</span>
-  </div>
-  <div style="font-size: 12px; color: #999;">Status: <strong style="color: #000;">MAINTAINED</strong></div>
-</div>
+<br/>
 
-<!-- Project 4 -->
-<div style="background: white; border: 2px solid #666; border-radius: 10px; padding: 20px;">
-  <h3 style="color: #000; margin: 0 0 10px 0;">CTF Solutions</h3>
-  <p style="color: #666; font-size: 14px; margin: 0 0 15px 0;">Advanced Challenge Writeups & Exploitation Techniques from Competitions</p>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 15px;">
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Hacking</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Python</span>
-    <span style="background: #f0f0f0; color: #000; padding: 4px 10px; border-radius: 4px; font-size: 12px;">Documentation</span>
-  </div>
-  <div style="font-size: 12px; color: #999;">Status: <strong style="color: #000;">ONGOING</strong></div>
-</div>
+```bash
+[✓] Connection secured with TLS encryption
+[✓] All communication channels verified & operational
+[✓] Awaiting your message...
+```
 
 </div>
 
 ---
 
-## 📱 Language Breakdown
+## 💡 `CODE_PHILOSOPHY.MD`
 
-<svg width="100%" height="300" viewBox="0 0 600 300" style="background: white; border-radius: 10px; margin: 20px 0;">
-  
-  <!-- Pie Chart -->
-  <circle cx="150" cy="120" r="80" fill="none" stroke="#000" stroke-width="30" stroke-dasharray="188.4 565.2" transform="rotate(-90 150 120)"/>
-  <circle cx="150" cy="120" r="80" fill="none" stroke="#333" stroke-width="30" stroke-dasharray="113.04 752.64" transform="rotate(111 150 120)"/>
-  <circle cx="150" cy="120" r="80" fill="none" stroke="#555" stroke-width="30" stroke-dasharray="75.36 891.2" transform="rotate(205 150 120)"/>
-  <circle cx="150" cy="120" r="80" fill="none" stroke="#777" stroke-width="30" stroke-dasharray="188.4 1254.4" transform="rotate(-90 150 120)" opacity="0.3"/>
-  
-  <!-- Labels -->
-  <text x="150" y="120" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#000">33%</text>
-  
-  <!-- Legend -->
-  <rect x="300" y="20" width="20" height="20" fill="#000"/>
-  <text x="330" y="35" font-size="13" fill="#333">JavaScript/TypeScript (33%)</text>
-  
-  <rect x="300" y="60" width="20" height="20" fill="#333"/>
-  <text x="330" y="75" font-size="13" fill="#333">Python (20%)</text>
-  
-  <rect x="300" y="100" width="20" height="20" fill="#555"/>
-  <text x="330" y="115" font-size="13" fill="#333">React (15%)</text>
-  
-  <rect x="300" y="140" width="20" height="20" fill="#777"/>
-  <text x="330" y="155" font-size="13" fill="#333">Other (32%)</text>
-  
-  <!-- Title -->
-  <text x="300" y="220" font-size="16" font-weight="bold" fill="#000" text-anchor="middle">Code Distribution</text>
-</svg>
+<div align="center">
 
----
+```
+"Security is not a feature, it's a foundation."
 
-## 🌐 Connect with Me
+My approach:
+  ✓ Write code that's elegant AND bulletproof
+  ✓ Break systems to understand how to fix them
+  ✓ Share knowledge to elevate the community
+  ✓ Never stop learning in this evolving landscape
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin: 20px 0;">
-
-<a href="https://github.com/karanjangir04" style="background: #000; color: white; padding: 15px; border-radius: 8px; text-align: center; text-decoration: none; font-weight: 600; display: block; transition: all 0.3s;">
-  🐙 GitHub
-</a>
-
-<a href="https://www.linkedin.com/in/karan-jangir-025500291/" style="background: #333; color: white; padding: 15px; border-radius: 8px; text-align: center; text-decoration: none; font-weight: 600; display: block; transition: all 0.3s;">
-  💼 LinkedIn
-</a>
-
-<a href="mailto:karanjangir04@gmail.com" style="background: #555; color: white; padding: 15px; border-radius: 8px; text-align: center; text-decoration: none; font-weight: 600; display: block; transition: all 0.3s;">
-  ✉️ Email
-</a>
-
-<a href="https://www.tryhackme.com/" style="background: #666; color: white; padding: 15px; border-radius: 8px; text-align: center; text-decoration: none; font-weight: 600; display: block; transition: all 0.3s;">
-  🎯 TryHackMe
-</a>
+Methodology:
+  1️⃣  Break It    → Understand vulnerabilities
+  2️⃣  Exploit It  → Prove the concept
+  3️⃣  Fix It      → Implement solutions
+  4️⃣  Bulletproof → Harden for production
+```
 
 </div>
 
----
-
-## 🎓 Philosophy
-
-<div style="background: #f5f5f5; border-left: 4px solid #000; padding: 20px; margin: 20px 0; border-radius: 4px;">
-
-> **"Security is not a feature, it's a foundation."**
-
-I believe in writing code that is both elegant and bulletproof. My approach combines:
-- **Breaking systems** to understand vulnerabilities
-- **Building solutions** that are production-ready
-- **Sharing knowledge** to elevate the entire community
-- **Continuous learning** in this ever-evolving landscape
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 <div align="center">
 
-<p style="color: #666; font-size: 12px; margin: 20px 0;">
-  © 2024-2025 Karan Jangir | Cybersecurity Developer | Full-Stack Engineer
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:00d9ff&height=140&section=footer&text=SYSTEM%20READY&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
 
-<p style="color: #999; font-size: 11px;">
-  Crafted with passion, coffee, and a commitment to security ☕ 🔐
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     < CRAFTED_WITH: 💻 Code • ☕ Coffee • 🔐 Security >    ║
+║                  © 2024-2025 Karan Jangir                    ║
+║                                                               ║
+║           "Let's make the internet more secure!"             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
